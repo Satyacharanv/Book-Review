@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+asyncpg
+aioredis
+alembic
+pydantic
+pytest
+python-dotenv
+psycopg2-binary
+aiosqlite
+redis 
